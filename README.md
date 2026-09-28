@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Saad Ahmed
 
-### Senior Frontend Developer | React.js • Next.js • JavaScript • TypeScript
+### Senior Frontend Developer | React.js • Next.js • TypeScript • DevOps
 
-Building scalable, maintainable and high-performance web applications.
+Building scalable, maintainable and production-ready web applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saadahmed.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed550)
@@ -16,21 +16,21 @@ Building scalable, maintainable and high-performance web applications.
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with **5.5+ years of experience** building modern web applications, with a strong focus on frontend engineering using **React.js, JavaScript, TypeScript and Next.js**.
+I'm a Software Engineer with **5.5+ years of experience** building modern, enterprise-scale web applications.
 
-I currently work at **Infosys**, where I've contributed to enterprise-scale frontend development and application modernization, including Angular-to-React migrations, API integration, authentication and authorization, reusable component architecture and production delivery.
+My core strength is frontend engineering with **React.js, JavaScript, TypeScript and Next.js**, backed by hands-on experience with **Node.js, Docker, Kubernetes, Jenkins and CI/CD pipelines**.
 
-I also work with modern DevOps and deployment technologies including **Docker, Kubernetes, Jenkins and CI/CD pipelines**.
+At **Infosys**, I work on enterprise application modernization, including **Angular-to-React migrations, role-based access control, protected routing, API integrations, reusable component architecture and production delivery**.
 
-- ⚛️ Specialized in **React.js and modern frontend architecture**
-- 🔄 Experience with **Angular → React migrations**
-- 🔐 Built **Role-Based Access Control and protected routing**
-- 🌐 Experienced with REST API integration
-- 🧩 Focused on reusable and maintainable component architecture
-- ⚡ Interested in frontend performance and scalability
-- 🐳 Working with **Docker & Kubernetes**
-- 🔁 Experience with **Jenkins and CI/CD**
-- 🎓 Computer Science Engineering graduate from **MIT ADT University, Pune**
+- ⚛️ React.js and modern frontend architecture
+- 🔄 Angular → React application migrations
+- 🔐 Role-Based Access Control and protected routes
+- 🌐 REST API integration
+- 🧩 Reusable component and state-management patterns
+- ⚡ Performance-focused frontend development
+- 🐳 Docker and Kubernetes
+- 🔁 Jenkins and CI/CD pipelines
+- 🎓 Computer Science Engineering — MIT ADT University, Pune
 - 📍 Pune, India
 
 ---
@@ -40,19 +40,19 @@ I also work with modern DevOps and deployment technologies including **Docker, K
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass" />
 </p>
 
 ### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-### DevOps & Tools
+### DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,webpack,vite,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,webpack,vite,vercel,vscode" />
 </p>
 
 ### Libraries & Technologies
@@ -70,17 +70,19 @@ I also work with modern DevOps and deployment technologies including **Docker, K
 Working on enterprise applications involving:
 
 - React application development
-- Angular to React migrations
+- Angular-to-React migrations
 - Role-Based Access Control
-- Protected routes
+- Protected routing
 - REST API integrations
 - Reusable frontend architecture
 - Responsive UI development
-- Application performance optimization
+- Performance optimization
 - CI/CD workflows
 - Production deployments
 
-Previously worked at **Telaverge Communications**, where I gained experience in software development, Python, Selenium automation testing, bug fixing and feature development.
+### Telaverge Communications
+
+Worked across software development, **Python**, **Selenium automation testing**, bug fixing and feature development.
 
 ---
 
@@ -88,13 +90,9 @@ Previously worked at **Telaverge Communications**, where I gained experience in 
 
 ### 💼 Hirrd — Job Portal
 
-A modern job portal for candidates and recruiters.
+A modern job portal for candidates and recruiters, supporting job discovery and recruiter-side job posting workflows.
 
-Candidates can explore job opportunities while recruiters can create and manage job postings.
-
-**Tech Stack**
-
-`React` • `Tailwind CSS` • `Supabase` • `Shadcn UI`
+**Tech:** `React` • `Tailwind CSS` • `Supabase` • `Shadcn UI`
 
 [Live Demo](https://hirrd-job-portal.vercel.app) • [Source Code](https://github.com/darkside550/Job-portal)
 
@@ -104,11 +102,7 @@ Candidates can explore job opportunities while recruiters can create and manage 
 
 A full-stack blogging platform where authenticated users can create, view and publish blog posts.
 
-Built to explore modern Next.js development, routing, authentication, server-side functionality and database integration.
-
-**Tech Stack**
-
-`Next.js` • `TypeScript` • `Tailwind CSS` • `Prisma`
+**Tech:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Prisma`
 
 [Live Demo](https://blog-project-kappa-orpin.vercel.app) • [Source Code](https://github.com/darkside550/Blog-Project)
 
@@ -116,13 +110,11 @@ Built to explore modern Next.js development, routing, authentication, server-sid
 
 ### 👟 Nike Landing Page
 
-A responsive Nike-inspired landing page focused on clean UI, responsive layouts and reusable React components.
+A responsive Nike-inspired landing page focused on reusable React components and modern responsive design.
 
-**Tech Stack**
+**Tech:** `React` • `Tailwind CSS`
 
-`React` • `Tailwind CSS`
-
-[Live Demo](https://nike-portfolio-page.netlify.app/)
+[Live Demo](https://nike-portfolio-page.netlify.app/) • [Source Code](https://github.com/darkside550/Nike-Website)
 
 ---
 
@@ -132,10 +124,10 @@ A responsive Nike-inspired landing page focused on clean UI, responsive layouts 
 - Next.js full-stack development
 - Frontend system design
 - Micro-frontends
-- Node.js
+- Node.js backend development
 - Docker & Kubernetes
 - CI/CD automation
-- Cloud-native application deployment
+- Cloud-native application delivery
 
 ---
 
@@ -173,12 +165,9 @@ A responsive Nike-inspired landing page focused on clean UI, responsive layouts 
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing:
+**React • Next.js • JavaScript • TypeScript • Frontend Architecture • DevOps**
 
-**React • Next.js • JavaScript • Frontend Architecture • DevOps • Web Performance**
-
-📫 [LinkedIn](https://www.linkedin.com/in/saad-ahmed550)
-
+📫 [LinkedIn](https://www.linkedin.com/in/saad-ahmed550)  
 🌐 [Portfolio](https://saadahmed.vercel.app/)
 
 ---
