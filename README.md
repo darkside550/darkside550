@@ -2,13 +2,16 @@
 
 # Hi 👋, I'm Saad Ahmed
 
-### Senior Frontend Developer | React.js • Next.js • TypeScript • DevOps
+<a href="https://saadahmed.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Senior+Frontend+Engineer+%40+Infosys;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Micro-Frontend+Architecture;Angular+%E2%86%92+React+Migrations" alt="Typing SVG" />
+</a>
 
-Building scalable, maintainable and production-ready web applications.
+Building fast, scalable and user-friendly web applications for the enterprise.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saadahmed.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed550)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkside550)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saadahmed.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://saadahmed.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-CBACF9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://saadahmed.vercel.app/Saad_Ahmed_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed550)
+[![Email](https://img.shields.io/badge/Email-imran.saad50%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.saad50@gmail.com)
 
 </div>
 
@@ -16,118 +19,93 @@ Building scalable, maintainable and production-ready web applications.
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with **5.5+ years of experience** building modern, enterprise-scale web applications.
+I'm a **Frontend Engineer with 5.5+ years of experience**, currently a **Senior Associate Consultant at Infosys** in Pune, India.
 
-My core strength is frontend engineering with **React.js, JavaScript, TypeScript and Next.js**, backed by hands-on experience with **Node.js, Docker, Kubernetes, Jenkins and CI/CD pipelines**.
+I work on enterprise application modernization: moving large products to modern React without slowing the business down. My core stack is **React.js, TypeScript, Next.js, Redux and TanStack Query**, backed by hands-on delivery with **Docker, Kubernetes, Jenkins and CI/CD**.
 
-At **Infosys**, I work on enterprise application modernization, including **Angular-to-React migrations, role-based access control, protected routing, API integrations, reusable component architecture and production delivery**.
+- ⚛️ Migrated **9 applications from Angular to React** within a **Micro-Frontend architecture**
+- 🔐 Implemented **Role-Based Access Control** with protected routes and menu-level authorization
+- 🧩 Built reusable component libraries and shared state patterns (Context API, Redux)
+- 🚀 Led frontend development of an automated **network monitoring platform** at Telaverge
+- 🏆 **2x Spot Award** winner • 📄 **IEEE** published author
+- 👨‍🏫 Mentored interns in JavaScript, React and TypeScript
 
-- ⚛️ React.js and modern frontend architecture
-- 🔄 Angular → React application migrations
-- 🔐 Role-Based Access Control and protected routes
-- 🌐 REST API integration
-- 🧩 Reusable component and state-management patterns
-- ⚡ Performance-focused frontend development
-- 🐳 Docker and Kubernetes
-- 🔁 Jenkins and CI/CD pipelines
-- 🎓 Computer Science Engineering — MIT ADT University, Pune
-- 📍 Pune, India
+> 💡 Try the interactive terminal on my [portfolio](https://saadahmed.vercel.app/#terminal): type `neofetch` or `sudo hire-me`.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| **Senior Associate Consultant** (Frontend) | Infosys, Pune | Oct 2024 – Present |
+| **Software Engineer, R&D** | Telaverge Communications, Bangalore | Aug 2021 – Jul 2024 |
+| **Software Engineer Intern, R&D** | Telaverge Communications, Bangalore | Jan 2021 – Jul 2021 |
+
+<details>
+<summary><b>What I've worked on</b></summary>
+<br />
+
+**Infosys**
+- Enterprise modernization program: Angular → React migrations in a micro-frontend setup, from repository setup to production
+- RBAC with protected routes, menu-level and route-level authorization, backed by server-side checks
+- Reusable React components and state patterns with Context API and Redux
+- Enterprise REST API integrations; delivery via Docker, Kubernetes, Jenkins and CI/CD
+
+**Telaverge Communications**
+- Led frontend of an automated network monitoring platform (React, TypeScript, TanStack Query, SCSS, Bootstrap)
+- Reusable service/UI patterns for REST APIs; refactored legacy code for maintainability
+- Upgraded react-scripts to v5.0.1 to fix security-audit vulnerabilities
+- Code reviews, releases with Docker Compose on Kubernetes; mentored 2 interns
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind,sass,materialui,bootstrap" />
 </p>
 
-### Backend & Data
+**Backend & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,firebase" />
 </p>
 
-### DevOps & Tooling
+**DevOps & Tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,webpack,vite,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,linux,git,github,webpack,vite,vercel,figma,vscode" />
 </p>
 
-### Libraries & Technologies
-
-`Redux` • `Context API` • `TanStack Query` • `Axios`  
-`React Hook Form` • `Formik` • `Yup` • `Shadcn UI`  
-`Socket.IO` • `Pusher` • `React Router`
-
----
-
-## 💼 Professional Experience
-
-### Infosys — Senior React Developer
-
-Working on enterprise applications involving:
-
-- React application development
-- Angular-to-React migrations
-- Role-Based Access Control
-- Protected routing
-- REST API integrations
-- Reusable frontend architecture
-- Responsive UI development
-- Performance optimization
-- CI/CD workflows
-- Production deployments
-
-### Telaverge Communications
-
-Worked across software development, **Python**, **Selenium automation testing**, bug fixing and feature development.
+`Micro-Frontends` • `TanStack Query` • `Context API` • `React Hook Form` • `Formik` • `Yup` • `Shadcn UI` • `Axios` • `Socket.IO` • `Pusher` • `REST APIs` • `RBAC`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 Hirrd — Job Portal
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| 💼 **Hirrd** | Job portal: candidates discover and apply, recruiters post and manage jobs | React, Supabase, Tailwind, Shadcn UI | [Live](https://hirrd-job-portal.vercel.app) • [Code](https://github.com/darkside550/Job-portal) |
+| 📝 **Full-Stack Blog** | Authenticated blog platform to write, publish and read posts | Next.js, TypeScript, Prisma, Kinde Auth | [Live](https://blog-project-kappa-orpin.vercel.app) • [Code](https://github.com/darkside550/Blog-Project) |
+| 😊 **MoodTrackr** | Log and visualize your daily mood | Next.js, Firebase, Tailwind | [Live](https://mood-trackr.vercel.app) • [Code](https://github.com/darkside550/MoodTrackr) |
+| 👟 **Nike Landing Page** | Pixel-perfect responsive landing page | React, TypeScript, Tailwind | [Live](https://nike-portfolio-page.netlify.app/) • [Code](https://github.com/darkside550/Nike-Website) |
 
-A modern job portal for candidates and recruiters, supporting job discovery and recruiter-side job posting workflows.
-
-**Tech:** `React` • `Tailwind CSS` • `Supabase` • `Shadcn UI`
-
-[Live Demo](https://hirrd-job-portal.vercel.app) • [Source Code](https://github.com/darkside550/Job-portal)
-
----
-
-### 📝 Full-Stack Blog Application
-
-A full-stack blogging platform where authenticated users can create, view and publish blog posts.
-
-**Tech:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Prisma`
-
-[Live Demo](https://blog-project-kappa-orpin.vercel.app) • [Source Code](https://github.com/darkside550/Blog-Project)
-
----
-
-### 👟 Nike Landing Page
-
-A responsive Nike-inspired landing page focused on reusable React components and modern responsive design.
-
-**Tech:** `React` • `Tailwind CSS`
-
-[Live Demo](https://nike-portfolio-page.netlify.app/) • [Source Code](https://github.com/darkside550/Nike-Website)
+👉 More on my **[portfolio](https://saadahmed.vercel.app/#projects)**.
 
 ---
 
 ## 🧠 Currently Exploring
 
-- Advanced React architecture
-- Next.js full-stack development
-- Frontend system design
-- Micro-frontends
-- Node.js backend development
-- Docker & Kubernetes
-- CI/CD automation
-- Cloud-native application delivery
+- Frontend system design and large-scale React architecture
+- Module Federation and advanced micro-frontend patterns
+- Next.js App Router and server components
+- Node.js backend development and cloud-native delivery
+- Building SaaS side projects
 
 ---
 
@@ -135,29 +113,12 @@ A responsive Nike-inspired landing page focused on reusable React components and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darkside550&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darkside550&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkside550&layout=compact&hide_border=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkside550&layout=compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=darkside550&hide_border=true&theme=tokyonight" />
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=darkside550&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkside550&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkside550&hide_border=true&theme=tokyo-night" />
 
 </div>
 
@@ -165,12 +126,9 @@ A responsive Nike-inspired landing page focused on reusable React components and
 
 ## 🤝 Let's Connect
 
-**React • Next.js • JavaScript • TypeScript • Frontend Architecture • DevOps**
+I'm always happy to talk about frontend engineering, React architecture and interesting product ideas.
 
-📫 [LinkedIn](https://www.linkedin.com/in/saad-ahmed550)  
-🌐 [Portfolio](https://saadahmed.vercel.app/)
-
----
+📫 [imran.saad50@gmail.com](mailto:imran.saad50@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/saad-ahmed550) • 🌐 [Portfolio](https://saadahmed.vercel.app/) • 📄 [Resume](https://saadahmed.vercel.app/Saad_Ahmed_Resume.pdf)
 
 <div align="center">
 
